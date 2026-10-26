@@ -2,7 +2,7 @@
      "news": "> <span style=\"color:#55ff55\">ОБНОВЛЕНИЕ 1.1</span> — 23.10.2026\n> Добавлена LITE-сборка для слабых ПК и Mac.\n> Первый релиз с собственным лаунчером!\nВыберите Full, если играете на видеокарте Nvidia, Lite- для легкой сборки\n> ",
      "server_ip": "spiral-zurich.tun.ply.gg",
      "builds": {
-       "full": { "url": "https://www.dropbox.com/scl/fi/j0zdw3p93fum06oriezk1/modpack-v1.zip?rlkey=t0v4q5x9n5ncqiw9itd9x9o79&st=nh6i7odn&dl=1" },
-       "lite": { "url": "https://www.dropbox.com/scl/fi/0pinz4xv1x0k8n4eflhqd/modpackv1macos.zip?rlkey=3pypdd72bhef8ii0doo5x3685&dl=1" }
+       "full": { "url": "https://www.dropbox.com/scl/fi/6yb6e60ow489apwty155b/full.zip?rlkey=cxd4vggg7n3pcxhx2tyu5yl87&st=i979ny11&dl=1" },
+       "lite": { "url": "https://www.dropbox.com/scl/fi/xsa4moezdh9x7eir8fall/lite.zip?rlkey=6ilyune0n30csx46nr0i1i9s1&st=cbqqkffa&dl=1" }
      }
    }
