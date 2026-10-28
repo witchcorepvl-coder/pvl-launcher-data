@@ -2,7 +2,7 @@
      "news": "> <span style=\"color:#55ff55\">ОБНОВЛЕНИЕ 4.2</span> — 26.10.2026\n> Новая система авторизации и косметика с мебелью!.\n\nВыберите Full, если играете на видеокарте Nvidia, Lite- для легкой сборки\n ",
      "server_ip": "spiral-zurich.tun.ply.gg",
      "builds": {
-       "full": { "url": "https://www.dropbox.com/scl/fi/ft7771i1xty35aiw1rpu0/full.zip?rlkey=f5yvwr7qh3l30knl4h28fn7wy&st=5ahegvmz&dl=1" },
-       "lite": { "url": "https://www.dropbox.com/scl/fi/pe1qhy3iv1b9eh3lt7f4t/lite.zip?rlkey=3g1lvsunnqahvlg5vwlenxbav&st=tkb0njsd&dl=1" }
+       "full": { "url": "https://www.dropbox.com/scl/fi/b4endybzh4e2hnbjnr1zd/full.zip?rlkey=090ww4fbps16sqwk96cepqad2&st=we9l7g5m&dl=1" },
+       "lite": { "url": "https://www.dropbox.com/scl/fi/a1nwdqptbzjg017cgglxj/lite.zip?rlkey=5vem2zrwgigpwhafixbpjdpck&st=tclbiay9&dl=1" }
      }
    }
