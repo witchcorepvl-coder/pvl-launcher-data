@@ -1,8 +1,8 @@
-   {
-     "news": "> <span style=\"color:#55ff55\">ОБНОВЛЕНИЕ 4.2</span> — 26.10.2026\n> Новая система авторизации и косметика с мебелью!.\n\nВыберите Full, если играете на видеокарте Nvidia, Lite- для легкой сборки\n ",
-     "server_ip": "8y1vr59s.free.tryportwarp.cc:18846",
-     "builds": {
-       "full": { "url": "https://www.dropbox.com/scl/fi/tcx8c5x82bc5r2gpgtj0z/full.zip?rlkey=2e0yajike96cxs5wwuc3p34yl&st=oblevi5n&dl=1" },
-       "lite": { "url": "https://www.dropbox.com/scl/fi/qz6hod1gu3htdlzyj9129/lite.zip?rlkey=t6nnc6ciyntrcukoi9fue9slp&st=j35wlehy&dl=1" }
-     }
-   }
+{
+  "news": "> <span style=\"color:#55ff55\"><b>ОБНОВЛЕНИЕ 4.3</b></span> — 30.10.2026\n\n📌 <b>Основные изменения:</b>\n• <b>Новый IP-адрес</b> — сервер переведён на новый стабильный адрес.\n• <b>Переход на новый протокол</b> — полностью устранены сетевые ошибки и проблемы с физикой.\n\n⚙️ <b>Выбор сборки:</b>\n• <b>Full</b> — для ПК с видеокартами NVIDIA (максимальная графика).\n• <b>Lite</b> — облегчённая сборка для слабых ПК и ноутбуков.\n\n<span style=\"color:#ffaa00\">⚠️ <b>Внимание:</b> обязательно обновите сборку перед входом на сервер!</span>",
+  "server_ip": "8y1vr59s.free.tryportwarp.cc:18846",
+  "builds": {
+    "full": { "url": "https://www.dropbox.com/scl/fi/tcx8c5x82bc5r2gpgtj0z/full.zip?rlkey=2e0yajike96cxs5wwuc3p34yl&st=oblevi5n&dl=1" },
+    "lite": { "url": "https://www.dropbox.com/scl/fi/qz6hod1gu3htdlzyj9129/lite.zip?rlkey=t6nnc6ciyntrcukoi9fue9slp&st=j35wlehy&dl=1" }
+  }
+}
