@@ -1,8 +1,8 @@
 {
-  "news": "> <span style=\"color:#55ff55\"><b>ОБНОВЛЕНИЕ 4.3</b></span> — 30.10.2026\n\n📌 <b>Основные изменения:</b>\n• <b>Новый IP-адрес</b> — сервер переведён на новый стабильный адрес.\n• <b>Переход на новый протокол</b> — полностью устранены сетевые ошибки и проблемы с физикой.\n\n⚙️ <b>Выбор сборки:</b>\n• <b>Full</b> — для ПК с видеокартами NVIDIA (максимальная графика).\n• <b>Lite</b> — облегчённая сборка для слабых ПК и ноутбуков.\n\n<span style=\"color:#ffaa00\">⚠️ <b>Внимание:</b> обязательно обновите сборку перед входом на сервер!</span>",
+  "news": "> <span style=\"color:#55ff55\"><b>ОБНОВЛЕНИЕ 4.3 (HOTFIX)</b></span> — 31.10.2026\n\n📌 <b>Основные изменения:</b>\n• 🛡️ <b>Срочный хотфикс авторизации</b> — устранена критическая проблема со входом на сервер, система работает стабильно.\n• 🛠️ <b>Новые роли персонала</b> — добавлены технические роли для администрации и поддержки проекта.\n• 🌐 <b>Новый IP-адрес</b> — сервер переведён на новую, более стабильную локацию.\n• ⚙️ <b>Новый протокол связи</b> — полностью устранены сетевые ошибки и проблемы с физикой.\n\n💻 <b>Выбор сборки:</b>\n• 🎮 <b>Full</b> — для ПК с видеокартами NVIDIA (максимальная графика и эффекты).\n• ⚡ <b>Lite</b> — облегчённая сборка, идеально для слабых ПК и ноутбуков.\n\n<span style=\"color:#ffaa00\">⚠️ <b>Внимание:</b> обязательно обновите вашу сборку перед входом на сервер!</span>",
   "server_ip": "8y1vr59s.free.tryportwarp.cc:18846",
   "builds": {
-    "full": { "url": "https://www.dropbox.com/scl/fi/x9t8n3bn5y9i0w3uoqmo4/full.zip?rlkey=ixjnhinn1c52pp7ch18njbk6i&st=03yx34n2&dl=1" },
-    "lite": { "url": "https://www.dropbox.com/scl/fi/3y1trigfit8n48smfzus6/lite.zip?rlkey=xgys0rcgvymz1le7mjdsefj33&st=l02scol8&dl=1" }
+    "full": { "url": "https://www.dropbox.com/scl/fi/dnjo0zd8yynkc1h0puzi0/full.zip?rlkey=cylgg841tka3yinrppt1ns3lw&st=74q4rm5s&dl=1" },
+    "lite": { "url": "https://www.dropbox.com/scl/fi/0bkk00yn07pgwo4mter31/lite.zip?rlkey=3np5xe0xnft4oiznnibwvf8rm&st=n38ub2tt&dl=1" }
   }
 }
