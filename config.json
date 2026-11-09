@@ -3,10 +3,10 @@
   "server_ip": "anfisa.proximamp.com:27292",
   "builds": {
     "full": {
-      "url": "https://www.dropbox.com/scl/fi/8by7nkdy4nrcqe8agg1sy/full.zip?rlkey=o98zzk4yrojm59ns7id3rhc6g&st=osrklp2q&dl=1"
+      "url": "https://www.dropbox.com/scl/fi/cuboqntizj8a8xcivweuf/lite.zip?rlkey=1raqfkwwir8latx742b8r5zla&st=dgf5isyt&dl=1"
     },
     "lite": {
-      "url": "https://www.dropbox.com/scl/fi/bnrmpxxr4pj2d4cfwn3sc/lite.zip?rlkey=kdxrbo5ic6693909nvvo9jm94&st=5yzycxb7&dl=1"
+      "url": "https://www.dropbox.com/scl/fi/cuboqntizj8a8xcivweuf/lite.zip?rlkey=1raqfkwwir8latx742b8r5zla&st=dgf5isyt&dl=1"
     }
   }
 }
