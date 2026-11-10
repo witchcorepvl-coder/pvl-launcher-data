@@ -28,19 +28,19 @@
     "full": {
       "version": "4.8",
       "ram": 6144,
-      "url": "https://www.dropbox.com/scl/fi/cuboqntizj8a8xcivweuf/lite.zip?rlkey=1raqfkwwir8latx742b8r5zla&st=dgf5isyt&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=qcz2sg15&dl=1",
       "sources": [
-        "https://disk.yandex.ru/d/mZPu1EbwVAnsCg",
-        "https://www.dropbox.com/scl/fi/cuboqntizj8a8xcivweuf/lite.zip?rlkey=1raqfkwwir8latx742b8r5zla&st=dgf5isyt&dl=1"
+        "https://disk.yandex.ru/d/Km6W6XlFfS6gXQ",
+        "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=qcz2sg15&dl=1"
       ]
     },
     "lite": {
-      "version": "4.8",
+      "version": "4.9",
       "ram": 4096,
-      "url": "https://www.dropbox.com/scl/fi/9e6gs31k22uxk6vd2xfpn/lite.zip?rlkey=rg1pnokuik41r066h54loilcr&st=sdgtbftk&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/xadrz8mx34eqydladceuv/lite.zip?rlkey=lnvt5298bbe9dargpldywc7cf&st=0affbbhn&dl=1",
       "sources": [
-        "https://disk.yandex.ru/d/5Tr7lBAW8SQQ4A",
-        "https://www.dropbox.com/scl/fi/9e6gs31k22uxk6vd2xfpn/lite.zip?rlkey=rg1pnokuik41r066h54loilcr&st=sdgtbftk&dl=1"
+        "https://disk.yandex.ru/d/zEu6AM2J2RI_RA",
+        "https://www.dropbox.com/scl/fi/xadrz8mx34eqydladceuv/lite.zip?rlkey=lnvt5298bbe9dargpldywc7cf&st=0affbbhn&dl=1"
       ]
     }
   }
