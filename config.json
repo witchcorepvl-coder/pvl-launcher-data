@@ -26,12 +26,12 @@
   },
   "builds": {
     "full": {
-      "version": "4.8",
+      "version": "4.9",
       "ram": 6144,
-      "url": "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=qcz2sg15&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=7ff825fz&dl=1",
       "sources": [
         "https://disk.yandex.ru/d/Km6W6XlFfS6gXQ",
-        "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=qcz2sg15&dl=1"
+        "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=7ff825fz&dl=1"
       ]
     },
     "lite": {
