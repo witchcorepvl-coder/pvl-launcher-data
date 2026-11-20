@@ -1,5 +1,5 @@
 {
-  "news": "> <span style=\"color:#55ff55\"><b>ОБНОВЛЕНИЕ 4.9</b></span> — 10.11.2026\n\n🖥️ <b>Компьютер!</b>\nТеперь в игре появились компьютеры, через которые можно зайти в социальную сеть и делиться своими снимками!",
+  "news": "> <span style=\"color:#55ff55\"><b>ОБНОВЛЕНИЕ 5.0</b></span> — 20.11.2026\n\n🖥️ <b>ОБНОВЛЕНИЕ СЕРВЕРА</b>\nНа сервере появился <b>компьютер</b> — со своей операционной системой и уникальными возможностями.\n\n❓ <b>Что он умеет?</b> Скрафтите, включите и узнайте сами 😉\n💡 <b>Совет:</b> не спешите. Некоторые вещи открываются не сразу.\n\n🌐 <b>Новый адрес сервера:</b> <span style=\"color:#55ffff\"><b>213.152.43.93:25937</b></span>\nЧерез лаунчер ничего менять не нужно — он сам зайдёт на новый сервер.\n\n<span style=\"color:#ffaa00\">⚠️ <b>Внимание:</b> лаунчер сам обновит сборку при нажатии «Играть» — со старой версией зайти на сервер не получится!</span>",
   "splashes": [
     "ИЗ СОВЫ В КОРАБЛЬ",
     "Трущель - ЖИВ",
@@ -14,10 +14,12 @@
     "Алмазы на 11 высоте!",
     "Где мой гравий?",
     "Свинозомби помнят всё...",
-    "Теперь с питомцами!",
-    "Ховербайк ждёт первых!"
+    "Теперь с компьютерами!",
+    "Не спешите... некоторые вещи открываются не сразу",
+    "sudo craft --all",
+    "Выключи и включи снова!"
   ],
-  "server_ip": "anfisa.proximamp.com:27292",
+  "server_ip": "213.152.43.93:25937",
   "auto_select": {
     "min_ram_gb": 8,
     "gpu": [
@@ -26,21 +28,23 @@
   },
   "builds": {
     "full": {
-      "version": "4.9",
+      "version": "5.0",
       "ram": 6144,
-      "url": "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=7ff825fz&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/dglwmqicxhe7id2fcpj5r/full.zip?rlkey=e5o84obw6wwqfvm93xrrd21ht&st=f8wo24ax&dl=1",
       "sources": [
-        "https://disk.yandex.ru/d/Km6W6XlFfS6gXQ",
-        "https://www.dropbox.com/scl/fi/42fytup95mgmn76ot4wku/full.zip?rlkey=gs417zkrveyqdp7g6z528md6o&st=7ff825fz&dl=1"
+        "https://disk.yandex.ru/d/b8ATQaGLIJkjGA",
+        "https://www.dropbox.com/scl/fi/dglwmqicxhe7id2fcpj5r/full.zip?rlkey=e5o84obw6wwqfvm93xrrd21ht&st=f8wo24ax&dl=1",
+        "https://drive.google.com/file/d/1efp_awv7K0T8McYploN6Gl-wszQVZBFy/view?usp=sharing"
       ]
     },
     "lite": {
-      "version": "4.9",
+      "version": "5.0",
       "ram": 4096,
-      "url": "https://www.dropbox.com/scl/fi/xadrz8mx34eqydladceuv/lite.zip?rlkey=lnvt5298bbe9dargpldywc7cf&st=0affbbhn&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/98xckb12vzcpu6yxjh5tu/lite.zip?rlkey=vvyzkn8ogbhqsi1r3g5az0k8q&st=5wdbfwmj&dl=1",
       "sources": [
-        "https://disk.yandex.ru/d/zEu6AM2J2RI_RA",
-        "https://www.dropbox.com/scl/fi/xadrz8mx34eqydladceuv/lite.zip?rlkey=lnvt5298bbe9dargpldywc7cf&st=0affbbhn&dl=1"
+        "https://disk.yandex.ru/d/h9fMTWSDAJoA0g",
+        "https://www.dropbox.com/scl/fi/98xckb12vzcpu6yxjh5tu/lite.zip?rlkey=vvyzkn8ogbhqsi1r3g5az0k8q&st=5wdbfwmj&dl=1",
+        "https://drive.google.com/file/d/1HeZ6Zz-SkE74401OFJRPEShnSf1X0n1V/view?usp=sharing"
       ]
     }
   }
