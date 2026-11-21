@@ -28,23 +28,23 @@
   },
   "builds": {
     "full": {
-      "version": "5.0",
+      "version": "5.0.1",
       "ram": 6144,
-      "url": "https://www.dropbox.com/scl/fi/dglwmqicxhe7id2fcpj5r/full.zip?rlkey=e5o84obw6wwqfvm93xrrd21ht&st=f8wo24ax&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/qsw7roxfzukmnr1iaz0bv/full.zip?rlkey=a0pf0y3m36orwn9f9rzug8lbf&st=utjlwt9j&dl=1",
       "sources": [
-        "https://disk.yandex.ru/d/b8ATQaGLIJkjGA",
-        "https://www.dropbox.com/scl/fi/dglwmqicxhe7id2fcpj5r/full.zip?rlkey=e5o84obw6wwqfvm93xrrd21ht&st=f8wo24ax&dl=1",
-        "https://drive.google.com/file/d/1efp_awv7K0T8McYploN6Gl-wszQVZBFy/view?usp=sharing"
+        "https://disk.yandex.ru/d/IFKmG2BBHT6tUA",
+        "https://www.dropbox.com/scl/fi/qsw7roxfzukmnr1iaz0bv/full.zip?rlkey=a0pf0y3m36orwn9f9rzug8lbf&st=utjlwt9j&dl=1",
+        "https://drive.google.com/file/d/1VaUSD-yunMUycrdambA_8vIfaVDb8Akm/view?usp=sharing"
       ]
     },
     "lite": {
-      "version": "5.0",
+      "version": "5.0.1",
       "ram": 4096,
-      "url": "https://www.dropbox.com/scl/fi/98xckb12vzcpu6yxjh5tu/lite.zip?rlkey=vvyzkn8ogbhqsi1r3g5az0k8q&st=5wdbfwmj&dl=1",
+      "url": "https://www.dropbox.com/scl/fi/esuwcdtbos0rsy7tv61qc/lite.zip?rlkey=0c37pk9px1ii9tejg5dfmkgdk&st=sfrxbux2&dl=1",
       "sources": [
-        "https://disk.yandex.ru/d/h9fMTWSDAJoA0g",
-        "https://www.dropbox.com/scl/fi/98xckb12vzcpu6yxjh5tu/lite.zip?rlkey=vvyzkn8ogbhqsi1r3g5az0k8q&st=5wdbfwmj&dl=1",
-        "https://drive.google.com/file/d/1HeZ6Zz-SkE74401OFJRPEShnSf1X0n1V/view?usp=sharing"
+        "https://disk.yandex.ru/d/ScpluaPXOMFcRA",
+        "https://www.dropbox.com/scl/fi/esuwcdtbos0rsy7tv61qc/lite.zip?rlkey=0c37pk9px1ii9tejg5dfmkgdk&st=sfrxbux2&dl=1",
+        "https://drive.google.com/file/d/1u4d60xu7iiQLuXLnMKw4T8qHicUsvwlQ/view?usp=sharing"
       ]
     }
   }
